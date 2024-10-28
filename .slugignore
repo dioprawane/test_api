@@ -1,0 +1,22 @@
+# Ignorer les dossierrs all et data _pycache_/
+all/
+data/
+__pycache__/
+
+# Ignorer le fichier mon_modele.h5
+mon_modele.h5
+mon_modele_bis.tflite
+mon_modele.h5
+
+app.py
+data.py
+load_data.py
+Mal_Classees_Bis_2.png
+Mal_Classees_Bis.png
+Matrice_Confusion_Bis.png
+model.py
+Modele_Bis.png
+separation_dataset.py
+tempCodeRunnerFile.py
+toLite.py
+verification.py

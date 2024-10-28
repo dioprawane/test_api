@@ -1,0 +1,9 @@
+# Ignorer les dossierrs all et data _pycache_/
+all/
+data/
+__pycache__/
+
+# Ignorer le fichier mon_modele.h5
+mon_modele.h5
+mon_modele_bis.tflite
+mon_modele.h5
